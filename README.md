@@ -1,2 +1,5 @@
-- Rust Dev
-- I will get something more later :)
+Rust Dev and Fanboy
+Web Dev:
+- Straight HTML, CSS, JS
+- NextJS
+- PHP
