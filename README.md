@@ -1,7 +1,5 @@
 Rust Dev and Fanboy,
-Web Dev:
-- Straight HTML, CSS, JS
-- NextJS
-- SolidJS
-- PHP
-- Bary (I made it LOL)
+
+
+The trophies:
+Rust, Blu, Lua, Python, C, C#, Go, Carbon, Dart, Typescript, Javascript, Java, PHP, WGSL, Zig, Holy C, Kotlin, (CSS, HTML)
