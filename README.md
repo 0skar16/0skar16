@@ -1,5 +1,5 @@
-Rust Dev and Fanboy,
+Moved to Codeberg because of GitHub's decisions aimed against us, the devs.
 
+Find me on [Codeberg](https://codeberg.org/moonydev).
 
-The trophies:
-Rust, Blu, Lua, Python, C, C#, Go, Carbon, Dart, Typescript, Javascript, Java, PHP, WGSL, Zig, Holy C, Kotlin, (CSS, HTML)
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
